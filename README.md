@@ -1,3 +1,4 @@
+# NoteCraft
 # Note-Taking-Web-Application
 
 ## Technologies Used
